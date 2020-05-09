@@ -1,0 +1,18 @@
+init: net
+init: game
+dedicated server started, waiting for clients...
+client connected (127.0.0.1)
+Sandboxer(0) voted for "coop edit" on ""
+Sandboxer(0) voted for "coop edit" on "ladder"
+map change vote passed for ladder
+(Sandboxer(0)) map CRC ladder: -1717615201
+client connected (127.0.0.1)
+disconnected client (127.0.0.1)
+(Sandboxer(1)) map CRC ladder: -1717615201
+client connected (127.0.0.1)
+disconnected client (127.0.0.1)
+(Sandboxer(0)) map CRC ladder: -1717615201
+status: 1 remote clients, 0.1 send, 0.5 rec (K/sec)
+status: 1 remote clients, 0.1 send, 1.0 rec (K/sec)
+disconnected client (127.0.0.1)
+status: 0 remote clients, 0.1 send, 1.0 rec (K/sec)
